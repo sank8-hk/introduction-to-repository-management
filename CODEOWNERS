@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sank8-hk
+/src/backend/database.py      @sank8-hk
+/src/backend/routers/auth.py  @sank8-hk
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sank8-hk
